@@ -1,3 +1,3 @@
 # IrishRailCustomTimetables
 
-![Description](/relative/path/to/CustomScreenshot.png?raw=true "Screenshot")
+![Description](/relative/path/to/CustomScreenshot.jpg?raw=true "Screenshot")
