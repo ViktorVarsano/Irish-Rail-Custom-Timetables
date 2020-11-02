@@ -14,10 +14,13 @@ class ShankillDeparturesTableViewController: UITableViewController
   
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+       
+        title = "Departures Shankill"
+
         tableView.estimatedRowHeight = 155.0
         tableView.rowHeight = UITableView.automaticDimension
-
+        
+        
         fetchData()
     }
     
