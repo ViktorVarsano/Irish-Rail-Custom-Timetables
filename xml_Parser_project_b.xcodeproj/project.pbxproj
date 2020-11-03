@@ -43,6 +43,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D9BA243A255191DD0043E022 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				D9D587B4254C05A000E7A63E /* Main.storyboard */,
+				D9D587B9254C05A500E7A63E /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
 		D9D587A2254C05A000E7A63E = {
 			isa = PBXGroup;
 			children = (
@@ -62,15 +71,14 @@
 		D9D587AD254C05A000E7A63E /* xml_Parser_project_b */ = {
 			isa = PBXGroup;
 			children = (
-				D9D587AE254C05A000E7A63E /* AppDelegate.swift */,
-				D9D587B0254C05A000E7A63E /* SceneDelegate.swift */,
 				D9D587CF254C08D500E7A63E /* XMLParser.swift */,
 				D9D587CC254C085000E7A63E /* NewsTableViewCell.swift */,
 				D9D587C5254C078A00E7A63E /* ShankillDeparturesTableViewController.swift */,
 				D9D58809254EFC2D00E7A63E /* ArklowDeparturesTableViewController.swift */,
+				D9BA243A255191DD0043E022 /* Storyboards */,
+				D9D587AE254C05A000E7A63E /* AppDelegate.swift */,
+				D9D587B0254C05A000E7A63E /* SceneDelegate.swift */,
 				D9D587B7254C05A500E7A63E /* Assets.xcassets */,
-				D9D587B4254C05A000E7A63E /* Main.storyboard */,
-				D9D587B9254C05A500E7A63E /* LaunchScreen.storyboard */,
 				D9D587BC254C05A500E7A63E /* Info.plist */,
 			);
 			path = xml_Parser_project_b;
