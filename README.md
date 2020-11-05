@@ -15,7 +15,7 @@ Designed to be simple and fast.
 
 
 ## Screenshots
-![screenshot1](https://github.com/ViktorVarsano/IrishRailCustomTimetables/blob/main/CustomScreenshot1.png?raw=true "screenshot1") width="50%" height="50%"
+![screenshot1](https://github.com/ViktorVarsano/IrishRailCustomTimetables/blob/main/CustomScreenshot1.png?raw=true "screenshot1" width="50%" height="50%") 
 
 
 ## Video
