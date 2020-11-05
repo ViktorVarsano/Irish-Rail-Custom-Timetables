@@ -5,7 +5,7 @@ Irish Rail Custom Timetables
 
 
 ## Background:
-:sparkles:   This App helps you get real-time data about trains leaving in the next 90 minutes from two named locations - Arklow and Shankill :sparkles:
+:sparkles:    This App helps you get real-time data about trains leaving in the next 90 minutes from two named locations - Arklow and Shankill :sparkles:
 
 
 ## Features
@@ -20,7 +20,7 @@ Irish Rail Custom Timetables
 
 ## Video
 
-:video_camera:  ![Irish Rail Custom Timetables Video](https://github.com/ViktorVarsano/IrishRailCustomTimetables/blob/main/vv-test-4.mp4?raw=true "Demo1")
+:video_camera:   ![Irish Rail Custom Timetables Video](https://github.com/ViktorVarsano/IrishRailCustomTimetables/blob/main/vv-test-4.mp4?raw=true "Demo1")
 
 ## Support:
-:rocket:  viktor_varsano@hotmail.com
+:rocket:   viktor_varsano@hotmail.com
