@@ -1,4 +1,4 @@
-! [language](https://img.shields.io/badge/Swift-5.3-green "language")
+! [language](https://img.shields.io/badge/Swift-5.3-green?raw=true "language")
 
 
 ## Irish Rail Custom Timetables
