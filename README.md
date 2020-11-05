@@ -20,7 +20,7 @@ Designed to be simple and fast.
 
 ## Video
 
-![video1](https://github.com/ViktorVarsano/IrishRailCustomTimetables/blob/main/vv-test-4.mp4?raw=true "video1")
+![video1](https://github.com/ViktorVarsano/IrishRailCustomTimetables/blob/main/vv-test-4.mp4?raw=true "Irish Rail Custom Timetables Demo")
 
 ## Support:
 viktor_varsano@hotmail.com
