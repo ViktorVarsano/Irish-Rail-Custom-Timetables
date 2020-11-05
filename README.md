@@ -1,5 +1,4 @@
-## Name
-Irish Rail Custom Timetables
+## Irish Rail Custom Timetables
 
 ## Description:
 
