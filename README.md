@@ -23,5 +23,10 @@
 
 :video_camera:   ![Irish Rail Custom Timetables Video](https://github.com/ViktorVarsano/IrishRailCustomTimetables/blob/main/vv-test-4.mp4?raw=true "Demo1")
 
+
+## Reference APIs:
+
+http://api.irishrail.ie/realtime/
+
 ## Support:
 :rocket:   viktor_varsano@hotmail.com
