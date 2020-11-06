@@ -10,9 +10,9 @@
 
 
 ## Features
-:dart:  Additional data is displayed in cells for each new train ariving at the chosen destination, such as local time, origin and final destination, when is the train arriving, if the train is going to be late and for how long, etc.
+:dart:   Additional data is displayed in cells for each new train ariving at the chosen destination, such as local time, origin and final destination, when is the train arriving, if the train is going to be late and for how long, etc.
 
-:dart:  Designed to be simple and fast. 
+:dart:   Designed to be simple and fast. 
 
 
 ## Screenshots
