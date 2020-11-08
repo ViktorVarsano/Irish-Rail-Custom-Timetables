@@ -3,14 +3,14 @@
 Simple app creates using Swift 5.3 
 
 ## Table of Contents:
-General Info
-Technologies
-Features 
-Launch 
-Screenshots
-Video
-Reference APIs
-Support
+* [General Info]
+* [Technologies]
+* [Features] 
+* [Launch]
+* [Screenshots]
+* [Video]
+* [Reference APIs]
+* [Support]
 
 ## General Info:
 :sparkles:    This App helps you get real-time data about trains leaving in the next 90 minutes from two named locations - Arklow and Shankill. In that way, you can always have updated information using their free APIs :sparkles:
@@ -29,7 +29,7 @@ XML Parsing
 
 
 ## Launch
-31.Oct.2020
+31 Oct 2020
 
 
 ## Screenshots
