@@ -3,7 +3,7 @@
 Simple app creates using Swift 5.3 
 
 ## Table of Contents:
-* [General Info] (#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#general-info)
+* [General Info] (#general-info)
 * [Technologies] (#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#technologies)
 * [Features] (#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#features)
 * [Launch] (#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#launch)
