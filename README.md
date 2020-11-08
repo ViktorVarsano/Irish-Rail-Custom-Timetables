@@ -19,9 +19,11 @@ Simple app created using Swift 5.3
 ## Technologies
 Swift 5.3  
 
-Irish Rail free APIs
+URLSession
 
 XML Parsing
+
+Irish Rail free APIs
 
 
 ## Features
