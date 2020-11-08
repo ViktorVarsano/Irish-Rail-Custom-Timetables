@@ -3,8 +3,8 @@
 Simple app creates using Swift 5.3 
 
 ## Table of Contents:
-* [General Info]
-* [Technologies]
+* [General Info] (#general-info)
+* [Technologies] (#technologies)
 * [Features] 
 * [Launch]
 * [Screenshots]
