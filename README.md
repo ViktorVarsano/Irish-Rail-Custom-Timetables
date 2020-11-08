@@ -3,14 +3,14 @@
 Simple app creates using Swift 5.3 
 
 ## Table of Contents:
-* [General Info] (#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#general-info)
-* [Technologies] (#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#technologies)
-* [Features] (#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#features)
-* [Launch] (#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#launch)
-* [Screenshots] (#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#screenshots)
-* [Video] (#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#video)
-* [Reference APIs] (#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#reference-apis)
-* [Support] (#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#support)
+* [General Info](#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#general-info)
+* [Technologies](#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#technologies)
+* [Features](#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#features)
+* [Launch](#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#launch)
+* [Screenshots](#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#screenshots)
+* [Video](#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#video)
+* [Reference APIs](#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#reference-apis)
+* [Support](#https://github.com/ViktorVarsano/Irish-Rail-Custom-Timetables#support)
 
 ## General Info:
 :sparkles:    This App helps you get real-time data about trains leaving in the next 90 minutes from two named locations - Arklow and Shankill. In that way, you can always have updated information using their free APIs :sparkles:
