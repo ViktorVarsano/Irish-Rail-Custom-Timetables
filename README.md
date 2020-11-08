@@ -1,6 +1,6 @@
 
 ## Irish Rail Custom Timetables
-Simple app creates using Swift 5.3 
+Simple app created using Swift 5.3 
 
 ## Table of Contents:
 * [General Info](#general-info)
