@@ -47,5 +47,5 @@ http://api.irishrail.ie/realtime/
 
 
 ## Support:
-:rocket:   viktor_varsano@hotmail.com
+:rocket:     viktor_varsano@hotmail.com
 
